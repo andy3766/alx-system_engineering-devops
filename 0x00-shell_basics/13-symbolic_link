@@ -1,2 +1,2 @@
 #!/bin/bash
-in -s/bn ls ls
+in -s /bn/ ls_ls_
